@@ -8,10 +8,7 @@
 #define L 20
 #define N 5
 
-/*DELIVERABLE 3&4
-Carlos Terrés Morata
-Group 29
-100428913*/
+
 char mat[ITERATIONS][5];
 char mat2[ITERATIONS][5];
 int decmat4[100],oke=1,happy=0;
